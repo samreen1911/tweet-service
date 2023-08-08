@@ -1,0 +1,14 @@
+com\tweetapp\tweetservice\client\UserAuthenticationClient.class
+com\tweetapp\tweetservice\dao\TweetRepository.class
+com\tweetapp\tweetservice\exception\LoginFailedException.class
+com\tweetapp\tweetservice\service\TweetService.class
+com\tweetapp\tweetservice\config\SwaggerConfiguration.class
+com\tweetapp\tweetservice\service\TweetServiceImpl.class
+com\tweetapp\tweetservice\exception\NotFoundException.class
+com\tweetapp\tweetservice\TweetServiceApplication.class
+com\tweetapp\tweetservice\model\User.class
+com\tweetapp\tweetservice\dto\TweetDTO.class
+com\tweetapp\tweetservice\model\UserAuthenticationResponse.class
+com\tweetapp\tweetservice\controller\TweetController.class
+com\tweetapp\tweetservice\model\Tweet.class
+com\tweetapp\tweetservice\model\Users.class
